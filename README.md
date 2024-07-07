@@ -101,3 +101,14 @@ docker build --tag=app .
 ```
 docker image ls 
 ```
+
+
+### Git push 
+*(Notice files has become new file after add)
+```
+git status
+git add *
+git status 
+git commit -m "Initial Commit"
+git push 
+```
